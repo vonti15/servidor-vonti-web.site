@@ -1,0 +1,19 @@
+{
+  "name": "2020_vonti-web.site",
+  "version": "1.0.0",
+  "description": "servidor-vonti-web.site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vonti15/servidor-vonti-web.site.git"
+  },
+  "author": "Ontiveros Aguirre Jesús Vidal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vonti15/servidor-vonti-web.site/issues"
+  },
+  "homepage": "https://github.com/vonti15/servidor-vonti-web.site#readme"
+}
